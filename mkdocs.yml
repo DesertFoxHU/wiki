@@ -1,6 +1,6 @@
 site_name: Wiki
 theme:
-  name: material
+  name: readthedocs
 nav:
   - Home: index.md
   - About: about.md
