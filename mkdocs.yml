@@ -5,6 +5,9 @@ nav:
 - Home: index.md
 - Calculations:
   - Damage: damage.md
+- Player:
+  - Player: player.md
+  - Level: level.md 
 - About: about.md
 - Items:
   - key: items/key.md
