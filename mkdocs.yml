@@ -2,5 +2,30 @@ site_name: Wiki
 theme:
   name: readthedocs
 nav:
-  - Home: index.md
-  - About: about.md
+- Home: index.md
+- About: about.md
+- Items:
+  - key: items/key.md
+  - dungeon_map: items/dungeon_map.md
+  - tiny_arrow_pack: items/tiny_arrow_pack.md
+  - small_arrow_pack: items/small_arrow_pack.md
+  - medium_arrow_pack: items/medium_arrow_pack.md
+  - large_arrow_pack: items/large_arrow_pack.md
+  - treasure_expander: items/treasure_expander.md
+  - soul_fragment: items/soul_fragment.md
+  - shattered_soul: items/shattered_soul.md
+  - soul: items/soul.md
+  - ancient_soul: items/ancient_soul.md
+  - call_of_abyss: items/call_of_abyss.md
+  - call_of_heaven: items/call_of_heaven.md
+  - berry: items/berry.md
+  - apple: items/apple.md
+  - steak: items/steak.md
+  - starter_sword: items/starter_sword.md
+  - trainee_sword: items/trainee_sword.md
+  - rusty_pickaxe: items/rusty_pickaxe.md
+  - flame_sword_of_north: items/flame_sword_of_north.md
+  - leech_king_sword: items/leech_king_sword.md
+  - regular_bow: items/regular_bow.md
+  - magical_bow: items/magical_bow.md
+  - leather_armor: items/leather_armor.md
