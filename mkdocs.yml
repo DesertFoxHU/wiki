@@ -1,8 +1,10 @@
-site_name: Wiki
+site_name: Ancient Ruin
 theme:
-  name: readthedocs
+  name: dracula
 nav:
 - Home: index.md
+- Calculations:
+  - Damage: damage.md
 - About: about.md
 - Items:
   - key: items/key.md
