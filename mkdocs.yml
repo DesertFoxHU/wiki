@@ -8,6 +8,8 @@ nav:
 - Player:
   - Player: player.md
   - Level: level.md 
+- Dungeon:
+  - Dungeon Levels: d_levels.md
 - About: about.md
 - Items:
   - key: items/key.md
